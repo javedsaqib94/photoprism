@@ -1,0 +1,19 @@
+{
+  "name": "photoprism",
+  "version": "1.0.0",
+  "description": "PhotoPrism: Browse Your Life in Pictures\r ========================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photoprism/photoprism.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photoprism/photoprism/issues"
+  },
+  "homepage": "https://github.com/photoprism/photoprism#readme"
+}
